@@ -33,11 +33,11 @@ This website is designed to help you solve various physics problems with ease. W
 
 ## 🌐 Try It Out
 
-You can access the live version of the Physics Solver Website [here]([#](https://phsolver.netlify.app)).
+You can access the live version of the Physics Solver Website [here](https://phsolver.netlify.app).
 
 ## 📧 Contact
 
-For any inquiries or feedback, feel free to reach out to us at [your.email@example.com](mailto:yha232008@gmail.com).
+For any inquiries or feedback, feel free to reach out to us at [yha232008@gmi](mailto:yha232008@gmail.com).
 
 ---
 
